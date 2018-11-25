@@ -26,3 +26,4 @@ ls -l /opt/wine64/drive_c/python*
 
 $here/build-electrum-git.sh $to_build && \
 echo "Done."
+
